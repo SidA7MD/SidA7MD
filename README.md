@@ -1,16 +1,89 @@
-## Hi there 👋
 
-<!--
-**SidA7MD/SidA7MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+### 『 ようこそ! Welcome to my Digital Dojo 』
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+
+
+<img align="right" alt="Coding Anime" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🎯 『 Mission Status 』
+
+```javascript
+const sidiAhmed = {
+    role: "Software Engineer",
+    location: "Nouakchott 🇲🇷",
+    company: "SupNum",
+    currentQuest: "Building the future, one commit at a time",
+    favoriteAnime: ["One Piece", "Naruto", "Attack on Titan"],
+    powerLevel: "Over 9000! 💪",
+    interests: ["AI", "Cybersecurity", "Web Development"],
+    lifePhilosophy: "Dattebayo! Never give up on your dreams!"
+};
+```
+
+<br>
+
+### ⚔️ 『 Tech Arsenal 』
+
+<div align="center">
+
+#### 🔥 Main Weapons
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp&theme=dark&perline=8" />
+
+#### 🎨 Frontend Jutsu
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,vite,webpack,redux&theme=dark&perline=8" />
+
+#### ⚡ Backend Techniques
+<img src="https://skillicons.dev/icons?i=php,laravel,django,flask,mongodb,mysql,postgresql,redis&theme=dark&perline=8" />
+
+#### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman,figma&theme=dark&perline=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 『 Battle Statistics 』
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidiahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Sidi Ahmed's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sidiahmed&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 『 Support My Journey 』
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=sidiahmed&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
+### 💫 『 Let's Build Something Amazing Together! 』
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%">
+
+*"In the world of code, there are no limits—only possibilities waiting to be unlocked."*
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+**⚡ Powered by passion, driven by code, inspired by anime ⚡**
+
+</div>
