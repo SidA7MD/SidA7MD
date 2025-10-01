@@ -59,7 +59,7 @@ const sidiAhmed = {
 </div>
 
 
-
+<br>
 <div align="center">
 
 ### 🌟 『 Support My Journey 』
@@ -71,6 +71,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 ### 💫 『 Let's Build Something Amazing Together! 』
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%">
+<img align="right" alt="Coding Anime" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 *"In the world of code, there are no limits—only possibilities waiting to be unlocked."*
 
