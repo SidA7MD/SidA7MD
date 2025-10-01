@@ -33,10 +33,10 @@ const sidiAhmed = {
 <div align="center">
 
 #### 🔥 Main Weapons
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,react,,nodejs,express,python,cpp&theme=dark&perline=8" />
 
 #### 🎨 Frontend Jutsu
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,vite,webpack,redux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite&theme=dark&perline=8" />
 
 #### ⚡ Backend Techniques
 <img src="https://skillicons.dev/icons?i=php,laravel,django,flask,mongodb,mysql,postgresql,redis&theme=dark&perline=8" />
