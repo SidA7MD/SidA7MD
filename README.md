@@ -33,7 +33,7 @@ const sidiAhmed = {
 <div align="center">
 
 #### 🔥 Main Weapons
-<img src="https://skillicons.dev/icons?i=js,react,,nodejs,express,python,cpp&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp&theme=dark&perline=8" />
 
 #### 🎨 Frontend Jutsu
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite&theme=dark&perline=8" />
@@ -79,11 +79,4 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 ---
 
-<div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-**⚡ Powered by passion, driven by code, inspired by anime ⚡**
-
-</div>
