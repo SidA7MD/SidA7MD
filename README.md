@@ -9,10 +9,8 @@
 <br>
 
 
-<img align="right" alt="Coding Anime" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🎯 『 Mission Status 』
-<br>
 
 ```javascript
 const sidiAhmed = {
