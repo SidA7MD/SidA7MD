@@ -39,10 +39,10 @@ const sidiAhmed = {
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite&theme=dark&perline=8" />
 
 #### ⚡ Backend Techniques
-<img src="https://skillicons.dev/icons?i=php,laravel,django,flask,mongodb,mysql,postgresql,redis&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=php,mongodb,mysql,redis&theme=dark&perline=8" />
 
 #### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark&perline=8" />
 
 </div>
 
