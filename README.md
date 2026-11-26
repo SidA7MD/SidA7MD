@@ -1,30 +1,47 @@
-# Hey, I'm Sidi Ahmed 👋
+```console
+sidiahmed@nouakchott:~$ git log --oneline --author="Sidi Ahmed"
+```
 
-Software engineer from **Nouakchott, Mauritania 🇲🇷** at **SupNum**.
-I build web apps and I'm interested in **AI** and **cybersecurity**.
+```diff
++ a1f9c3e  feat: currently building full-stack apps with React + Node.js
++ 7d2b8e1  feat: exploring AI and cybersecurity
++ 4c6a0f2  chore: joined SupNum as a software engineer
++ 9e3d7b5  feat: learned Python, C++ and PHP along the way
++ 2b1f4a8  fix: replaced "I can't" with "not yet"
++ 0000001  init: born and raised in Nouakchott 🇲🇷
+```
 
-> *"Never give up on your dreams."* — Naruto
+```console
+sidiahmed@nouakchott:~$ git diff skills
+```
 
----
+```diff
+  // stack
++ JavaScript   React   Node.js   Express   Tailwind
++ Python   C++   PHP
++ MongoDB   MySQL   Redis
++ Git   Linux   Bash
 
-### 🛠️ Tech I use
+  // learning
++ AI / machine learning
++ security & ethical hacking
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,python,cpp,php,mongodb,mysql,git,linux&perline=12" />
-</p>
+  // removed
+- giving up
+```
 
-### 🔭 Right now
+```console
+sidiahmed@nouakchott:~$ git status
+```
 
-- Building full-stack projects with **React** and **Node.js**
-- Learning more about **AI** and **security**
-- Open to collaborations and internships
+```yaml
+On branch: main
+Status:    open to collaborations and internships
+Untracked: your idea — let's build it together
+```
 
-### 📊 Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sidiahmed&theme=dark&hide_border=true" alt="GitHub streak" />
-
-### 📫 Reach me
-
-Open an issue on one of my repos, or find me here on GitHub.
-
-<sub>⭐ If something here helps you, a star is always appreciated.</sub>
+```console
+sidiahmed@nouakchott:~$ echo $MOTTO
+"Never give up on your dreams." — Naruto
+sidiahmed@nouakchott:~$ █
+```
